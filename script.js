@@ -1,3 +1,6 @@
+// Developer: Shawshanck 'Mohammad Mohammadpour'
+// github: https://github.com/shawshanck/picture-in-picture
+
 const videoElement = document.getElementById('video');
 const button = document.getElementById('button');
 
