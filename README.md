@@ -18,7 +18,7 @@ I am learning from others and practicing projects to improve my skills and also 
 If you want to share your experiences, feel free to contact.
 
 ### Supporting me :hearts:
-Your donations can also help me to get into good resources and books for studying and improving my skills.
+Your donations can also help me access good resources for studying and improving my skills.
 
 <p align="left">
 	
