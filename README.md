@@ -1,6 +1,6 @@
 # picture-in-picture
 
-<h2>https://shawshanck.github.io/picture-in-picture/</h2>
+<h3>https://shawshanck.github.io/picture-in-picture/</h3>
 
 Using JavaScript to share tabs and windows or entire screen in a format of "Picture in Picture"
 
